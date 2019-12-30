@@ -5,7 +5,7 @@ __pycache__/
 
 # C extensions
 *.so
-
+dask-worker-space/
 # Distribution / packaging
 .Python
 build/
